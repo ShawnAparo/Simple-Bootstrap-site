@@ -1,0 +1,46 @@
+body{
+	font-size: 18px;
+}
+.jumbotron{
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+#home{
+	padding-top: 100px;
+	height: 500px;
+	background-color: #1E88E5;
+}
+#about{
+	padding-top: 50px;
+	height: 500px;
+	color: #FFFFFF;
+	background-color: #673AB7;
+}
+#education{
+	padding-top: 50px;
+	height: 500px;
+	color: #FFFFFF;
+	background-color: #E24000;
+}
+#summary{
+	padding-top: 50px;
+	height: 500px;
+	background-color: #00C0E2;
+}
+#challenges{
+	padding-top: 50px;
+	height: 500px;
+	background-color: #66FFCC;
+}
+#contact{
+	padding-top: 50px;
+	height: 500px;
+	color: #FFFFFF;
+	background-color: #339933;
+}
+#interest-list{
+	padding-left: 0px;
+}
+#content{
+	padding-top: 50px;
+}
